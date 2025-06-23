@@ -1,5 +1,3 @@
-Here's a professional `README.md` file you can use for your GitHub repository based on your internship tasks and submitted files:
-
 ---
 
 # 🍽️ Restaurant Data Analysis Project
