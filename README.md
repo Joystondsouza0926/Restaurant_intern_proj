@@ -1,5 +1,3 @@
----
-
 # 🍽️ Restaurant Data Analysis Project
 
 This repository contains the work completed as part of my **Data Analysis Internship** at **Cognifyz Technologies** (May 2025 – June 2025). The project explores various analytical aspects of a restaurant dataset, including cuisine types, geographic distribution, ratings, and more.
